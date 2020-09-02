@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "20b8246b87ea1e1cdec3a7956b046945",
+    "revision": "1cc4729ba689d41ac1e1b600ffb5b8a8",
     "url": "/7confirmations.github.io/index.html"
   },
   {
-    "revision": "339e4b4144283f8df642",
+    "revision": "372c5862999dfe37befe",
     "url": "/7confirmations.github.io/static/css/2.fd971cca.chunk.css"
   },
   {
-    "revision": "368a91c8983ee2da2d23",
+    "revision": "0e279c992325a364375d",
     "url": "/7confirmations.github.io/static/css/main.ad19a2a4.chunk.css"
   },
   {
-    "revision": "339e4b4144283f8df642",
-    "url": "/7confirmations.github.io/static/js/2.fca31fca.chunk.js"
+    "revision": "372c5862999dfe37befe",
+    "url": "/7confirmations.github.io/static/js/2.1c69980f.chunk.js"
   },
   {
     "revision": "117d65892edc8adcd29d4a0d57b5a80a",
-    "url": "/7confirmations.github.io/static/js/2.fca31fca.chunk.js.LICENSE.txt"
+    "url": "/7confirmations.github.io/static/js/2.1c69980f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "368a91c8983ee2da2d23",
-    "url": "/7confirmations.github.io/static/js/main.7f11d6b8.chunk.js"
+    "revision": "0e279c992325a364375d",
+    "url": "/7confirmations.github.io/static/js/main.6f55505b.chunk.js"
   },
   {
     "revision": "da815a5424cce5263cce",

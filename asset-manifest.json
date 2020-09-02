@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/7confirmations.github.io/static/css/main.ad19a2a4.chunk.css",
-    "main.js": "/7confirmations.github.io/static/js/main.7f11d6b8.chunk.js",
-    "main.js.map": "/7confirmations.github.io/static/js/main.7f11d6b8.chunk.js.map",
+    "main.js": "/7confirmations.github.io/static/js/main.6f55505b.chunk.js",
+    "main.js.map": "/7confirmations.github.io/static/js/main.6f55505b.chunk.js.map",
     "runtime-main.js": "/7confirmations.github.io/static/js/runtime-main.c713115d.js",
     "runtime-main.js.map": "/7confirmations.github.io/static/js/runtime-main.c713115d.js.map",
     "static/css/2.fd971cca.chunk.css": "/7confirmations.github.io/static/css/2.fd971cca.chunk.css",
-    "static/js/2.fca31fca.chunk.js": "/7confirmations.github.io/static/js/2.fca31fca.chunk.js",
-    "static/js/2.fca31fca.chunk.js.map": "/7confirmations.github.io/static/js/2.fca31fca.chunk.js.map",
+    "static/js/2.1c69980f.chunk.js": "/7confirmations.github.io/static/js/2.1c69980f.chunk.js",
+    "static/js/2.1c69980f.chunk.js.map": "/7confirmations.github.io/static/js/2.1c69980f.chunk.js.map",
     "index.html": "/7confirmations.github.io/index.html",
-    "precache-manifest.66bd1745de750eed41f0c542af0cd0cd.js": "/7confirmations.github.io/precache-manifest.66bd1745de750eed41f0c542af0cd0cd.js",
+    "precache-manifest.79347f652786197ce34e6acdd845e6c6.js": "/7confirmations.github.io/precache-manifest.79347f652786197ce34e6acdd845e6c6.js",
     "service-worker.js": "/7confirmations.github.io/service-worker.js",
     "static/css/2.fd971cca.chunk.css.map": "/7confirmations.github.io/static/css/2.fd971cca.chunk.css.map",
     "static/css/main.ad19a2a4.chunk.css.map": "/7confirmations.github.io/static/css/main.ad19a2a4.chunk.css.map",
-    "static/js/2.fca31fca.chunk.js.LICENSE.txt": "/7confirmations.github.io/static/js/2.fca31fca.chunk.js.LICENSE.txt",
+    "static/js/2.1c69980f.chunk.js.LICENSE.txt": "/7confirmations.github.io/static/js/2.1c69980f.chunk.js.LICENSE.txt",
     "static/media/app-ui.png": "/7confirmations.github.io/static/media/app-ui.5678f403.png",
     "static/media/style.scss": "/7confirmations.github.io/static/media/illustration-section-02.63d0555d.svg",
     "static/media/excersising-girl-1.png": "/7confirmations.github.io/static/media/excersising-girl-1.c9f915ea.png",
@@ -37,8 +37,8 @@
   "entrypoints": [
     "static/js/runtime-main.c713115d.js",
     "static/css/2.fd971cca.chunk.css",
-    "static/js/2.fca31fca.chunk.js",
+    "static/js/2.1c69980f.chunk.js",
     "static/css/main.ad19a2a4.chunk.css",
-    "static/js/main.7f11d6b8.chunk.js"
+    "static/js/main.6f55505b.chunk.js"
   ]
 }
